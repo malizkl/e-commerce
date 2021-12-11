@@ -7,7 +7,7 @@ export default function Header(){
 
             <nav>
                 <div className="flex items-start justify-items-start justify-start">
-                    <img className="w-48 ml-20" src="https://cdn.shopify.com/s/files/1/2217/8211/files/Logo-01_02667e0b-45d4-4614-bd18-8785f9c5be7d_360x.jpg?v=1589395319" alt=" "/>
+                    <img className="w-48 ml-20" src="mwdesign.jpeg" alt=" "/>
                 </div>
             </nav>
 

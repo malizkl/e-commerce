@@ -9,15 +9,15 @@ function BookmarksPage(){
         </p>
 
         <p className="py-4 font-bold text-gray-500">
-            Email: info@placeitkw.com
+            Email: 
         </p>
 
         <p className="py-4 font-bold text-black">
-            Instagram: @PlaceitKuwait
+            Instagram: @mwdesignaccessory
         </p>
 
         <p className="py-4 font-bold text-black">
-            Whatsapp: +965-99777586
+            Whatsapp: +90 535 606 65 98 or +90 532 542 14 49
         </p>
 
 
