@@ -16,13 +16,26 @@ function BlogPage(){
             <div className={styles.grid}>
 
 
+            
             <a className={styles.card}>
-            <img src="https://www.pidekorasyon.com/img/products/pt0089-panaromik-kirilmaz-cam-tablo-poster-ev-dekor-duvar-kagit---5-_30.09.2021_6e796ec.jpg" alt=" "/>
+            <img src="https://www.pidekorasyon.com/img/products/pt0072-panaromik-kirilmaz-cam-tablo-poster-ev-dekor-duvar-kagit---5-_29.09.2021_4ef5926.jpg" alt=" "/>
 
             
-            <p className="py-2">Abstract Panoramic Glass Painting</p>
+            <p className="py-2">Basmala Panoramic Glass Painting</p>
           </a>
+
+
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/pt0055-panaromik-kirilmaz-cam-tablo-poster-ev-dekor-duvar-kagit---5-_24.09.2021_38d6200.jpg" alt=" "/>
+
+            
+            <p className="py-2">The Word of Allah Panoramic Glass Painting</p>
+          </a>
+
+
           
+
+
 
          
 
@@ -35,6 +48,14 @@ function BlogPage(){
           </a>
 
 
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/pt0089-panaromik-kirilmaz-cam-tablo-poster-ev-dekor-duvar-kagit---5-_30.09.2021_6e796ec.jpg" alt=" "/>
+
+            
+            <p className="py-2">Abstract Panoramic Glass Painting</p>
+          </a>
+          
+          
           <a  className={styles.card}>
 
           <img src="https://www.pidekorasyon.com/img/products/pt0077-panaromik-kirilmaz-cam-tablo-poster-ev-dekor-duvar-kagit---5-_30.09.2021_b473494.jpg" alt=""/>
@@ -51,6 +72,40 @@ function BlogPage(){
 
             
             <p className="py-2">Leaf Panoramic Glass Painting</p>
+          </a>
+
+
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/db0002-cam-tablo-ev-dekorasyonu-2li-cam-tabl-pidekorasyon-1_03.02.2021_698dd22.jpg" alt=" "/>
+
+            
+            <p className="py-2">Golden Double Glass Painting</p>
+          </a>
+
+
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/db0001-cam-tablo-ev-dekorasyonu-2li-cam-tabl-pidekorasyon-5_05.02.2021_d92f523.jpg" alt=" "/>
+
+            
+            <p className="py-2">City Double Glass Painting</p>
+          </a>
+
+
+
+
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/tr0078-cam-tablo-ev-dekorasyonu-3lu-cam-tabl-pidekorasyon-1_21.09.2021_e79015f.jpg" alt=" "/>
+
+            
+            <p className="py-2">Allah and Muhammad Letters Triple Glass Painting</p>
+          </a>
+
+
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/tr0080-cam-tablo-ev-dekorasyonu-3lu-cam-tabl-pidekorasyon-1_21.09.2021_ce6ba8c.jpg" alt=" "/>
+
+            
+            <p className="py-2">Gold Leaves Triple Glass Painting</p>
           </a>
 
 
@@ -99,79 +154,77 @@ function BlogPage(){
           </a>
 
 
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/tr0050-cam-tablo-ev-dekorasyonu-3lu-cam-tabl-pidekorasyon-1_24.08.2021_8ef20d1.jpg" alt=" "/>
+
+            
+            <p className="py-2">Prancing Horses Triple Glass Painting</p>
+          </a>
+
+
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/tr0048-cam-tablo-ev-dekorasyonu-3lu-cam-tabl-pidekorasyon-1_24.08.2021_2c7de27.jpg" alt=" "/>
+
+            
+            <p className="py-2">Gold Blue Triple Glass Painting</p>
+          </a>
+
+
+
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/tr0049-cam-tablo-ev-dekorasyonu-3lu-cam-tabl-pidekorasyon-1_24.08.2021_a9269d2.jpg" alt=" "/>
+
+            
+            <p className="py-2">Minimal Portraits Triple Glass Painting</p>
+          </a>
+
+
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/tr0042-cam-tablo-ev-dekorasyonu-3lu-cam-tabl-pidekorasyon-1_24.08.2021_90e24cb.jpg" alt=" "/>
+
+            
+            <p className="py-2">African Woman Triple Glass Painting</p>
+          </a>
 
 
 
 
           <a className={styles.card}>
-            <img src="https://www.pidekorasyon.com/img/products/ckt04068-cam-mutfak-kesma-tahtasi-1_29.10.2020_22063a5.jpg" alt=" "/>
+            <img src="https://www.pidekorasyon.com/img/products/tr0036-cam-tablo-ev-dekorasyonu-3lu-cam-tabl-pidekorasyon-1_24.08.2021_eba8ccd.jpg" alt=" "/>
 
             
-            <p className="py-2"> Drop Pattern Glass Cutting Table</p>
+            <p className="py-2">Landscape Triple Glass Painting</p>
           </a>
+
+
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/tr0034-cam-tablo-ev-dekorasyonu-3lu-cam-tabl-pidekorasyon-1_24.08.2021_69e715d.jpg" alt=" "/>
+
+            
+            <p className="py-2">Landscape Triple Glass Painting</p>
+          </a>
+
+
+
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/tr0022-cam-tablo-ev-dekorasyonu-3lu-cam-tabl-pidekorasyon-1_20.08.2021_0eb6bc5.jpg" alt=" "/>
+
+            
+            <p className="py-2">Abstract City Triple Glass Painting</p>
+          </a>
+
+
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/tr0046-cam-tablo-ev-dekorasyonu-3lu-cam-tabl-pidekorasyon-1_24.08.2021_e1f64ae.jpg" alt=" "/>
+
+            
+            <p className="py-2">Red Triple Glass Table</p>
+          </a>
+
+
+
+
           
-
-         
-
-          <a  className={styles.card}>
-
-          <img src="https://www.pidekorasyon.com/img/products/ckt04071-cam-mutfak-kesma-tahtasi-1_29.10.2020_08a3949.jpg" alt=""/>
-
-            
-            <p className="py-2">Black Drop Pattern Glass Cutting Table</p>
-          </a>
-
-          <a
-            
-            className={styles.card}
-          >
-                            <img  src="https://www.pidekorasyon.com/img/products/ckt05018-cam-mutfak-kesma-tahtasi-1_30.10.2020_84a0233.jpg" alt=" "/>
-
-            <p className="py-2">Minimal Pattern Glass Cutting Table</p>
-          </a>
-
-          <a
-            className={styles.card}
-          >
-                            <img  src="https://www.pidekorasyon.com/img/products/ckt05009-cam-mutfak-kesma-tahtasi-1_30.10.2020_05b93a2.jpg" alt=" "/>
-
-            <p className="py-2">
-            Dark Prism Pattern Glass Cutting Table
-            </p>
-          </a>
-
-          <a className={styles.card}>
-            <img src="https://www.pidekorasyon.com/img/products/ckt04052-cam-mutfak-kesma-tahtasi-1_29.10.2020_acccba4.jpg" alt=" "/>
-
-            
-            <p className="py-2">Green Forest Pattern Glass Cutting Table</p>
-          </a>
-
-
-          <a className={styles.card}>
-            <img src="https://www.pidekorasyon.com/img/products/ckt04048-cam-mutfak-kesma-tahtasi-3--1-_29.10.2020_2fcce5a.jpg" alt=" "/>
-
-            
-            <p className="py-2">Lake Pattern Glass Cutting Table</p>
-          </a>
-
-
-          <a className={styles.card}>
-            <img src="https://www.pidekorasyon.com/img/products/ckt04043-cam-mutfak-kesma-tahtasi-1_29.10.2020_0be4c7c.jpg" alt=" "/>
-
-            
-            <p className="py-2">Macaron Pattern Glass Cutting Table</p>
-          </a>
-
-
-
-          <a className={styles.card}>
-            <img src="https://www.pidekorasyon.com/img/products/ckt03084-cam-mutfak-kesma-tahtasi-1_29.10.2020_b9e7781.jpg" alt=" "/>
-
-            
-            <p className="py-2">Pepper Pattern Glass Cutting Table</p>
-          </a>
-
 
 
 

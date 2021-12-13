@@ -34,6 +34,24 @@ export default function Home() {
 
 
             <div className={styles.grid}>
+
+
+            <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/pt0072-panaromik-kirilmaz-cam-tablo-poster-ev-dekor-duvar-kagit---5-_29.09.2021_4ef5926.jpg" alt=" "/>
+
+            
+            <p className="py-2">Basmala Panoramic Glass Painting</p>
+          </a>
+
+
+          <a className={styles.card}>
+            <img src="https://www.pidekorasyon.com/img/products/pt0055-panaromik-kirilmaz-cam-tablo-poster-ev-dekor-duvar-kagit---5-_24.09.2021_38d6200.jpg" alt=" "/>
+
+            
+            <p className="py-2">The Word of Allah Panoramic Glass Painting</p>
+          </a>
+
+
           <a className={styles.card}>
             <img src="https://www.pidekorasyon.com/img/products/pt0089-panaromik-kirilmaz-cam-tablo-poster-ev-dekor-duvar-kagit---5-_30.09.2021_6e796ec.jpg" alt=" "/>
 
@@ -120,38 +138,7 @@ export default function Home() {
 
 
 
-          <a className={styles.card}>
-            <img src="https://www.pidekorasyon.com/img/products/ckt04052-cam-mutfak-kesma-tahtasi-1_29.10.2020_acccba4.jpg" alt=" "/>
-
-            
-            <p className="py-2">Green Forest Pattern Glass Cutting Table</p>
-          </a>
-
-
-          <a className={styles.card}>
-            <img src="https://www.pidekorasyon.com/img/products/ckt04048-cam-mutfak-kesma-tahtasi-3--1-_29.10.2020_2fcce5a.jpg" alt=" "/>
-
-            
-            <p className="py-2">Lake Pattern Glass Cutting Table</p>
-          </a>
-
-
-          <a className={styles.card}>
-            <img src="https://www.pidekorasyon.com/img/products/ckt04043-cam-mutfak-kesma-tahtasi-1_29.10.2020_0be4c7c.jpg" alt=" "/>
-
-            
-            <p className="py-2">Macaron Pattern Glass Cutting Table</p>
-          </a>
-
-
-
-          <a className={styles.card}>
-            <img src="https://www.pidekorasyon.com/img/products/ckt03084-cam-mutfak-kesma-tahtasi-1_29.10.2020_b9e7781.jpg" alt=" "/>
-
-            
-            <p className="py-2">Pepper Pattern Glass Cutting Table</p>
-          </a>
-
+          
 
 
 
