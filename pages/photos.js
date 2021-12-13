@@ -11,6 +11,15 @@ function PhotoPage(){
             Our aim is to introduce innovative items and we prioritize the originality, quality and detail of each piece we sell.
         </p>
 
+        <a
+        href="https://wa.me/905356066598"
+        class="whatsapp_float"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <button>Contact via WhatsApp</button>
+      </a>
+
     </div>
 
 
