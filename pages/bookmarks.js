@@ -9,7 +9,7 @@ function BookmarksPage(){
         </p>
 
         <p className="py-4 font-bold text-gray-500">
-            Email: 
+            Email: mwdesignaccessories@gmail.com
         </p>
 
         <p className="py-4 font-bold text-black">
